@@ -21,4 +21,4 @@ And I’d whisk you to the bush till the dawning light.
 Even though the grouses sound woebegone,
 There’s a joyous dolor in the crimson dawn.
 
-[ссылка_на_readme](README.md)
+[ссылка_на_readme](https://github.com/iamtanyacat/lab3/edit/main/README.md)
